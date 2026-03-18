@@ -1,2 +1,2 @@
 # Art- new beginnig
-this is mut first git repositry
+this is my first git repositry
